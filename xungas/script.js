@@ -71,8 +71,8 @@ const movies = [
         ticketsAvailable: 60
     },
     {
-        name: "A Bruxa",
-        image: "https://br.web.img2.acsta.net/c_310_420/pictures/16/02/02/11/51/346769.jpg",
+        name: "Grávida de Taubaté",
+        image: "https://i0.wp.com/likemagazine.com.br/midias/2023/10/Filme-da-gravida-de-taubate-em-animacao-Disney-Pixar-Temos-tambem.jpg?resize=574%2C850&ssl=1",
         date: "03/11/2023",
         isReleased: false,
         releaseDate: "15/10/2023",
