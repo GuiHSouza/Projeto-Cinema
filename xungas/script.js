@@ -1,7 +1,7 @@
 const movies = [
     {
-        name: "Vingadores Ultimato",
-        image: "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Avengers_Endgame.jpg/250px-Avengers_Endgame.jpg",
+        name: "Centopéia-Humana",
+        image: "https://i.kym-cdn.com/photos/images/original/002/685/516/683.jpg",
         date: "26/10/2023",
         isReleased: true,
         releaseDate: "01/10/2023",
@@ -9,8 +9,8 @@ const movies = [
         ticketsAvailable: 50
     },
     {
-        name: "Oppenheimer",
-        image: "https://jardimdasamericas.com.br/uploads/2023/07/capa-filme-oppenheimer-4a9d6-large.jpg",
+        name: "Procurando-Osama",
+        image: "https://preview.redd.it/4p0699ae26p91.jpg?width=640&crop=smart&auto=webp&s=1c588bd4185d982c302e9f3464b9e82bf38112a3",
         date: "27/10/2023",
         isReleased: false,
         releaseDate: "15/10/2023",
@@ -18,8 +18,8 @@ const movies = [
         ticketsAvailable: 30
     },
     {
-        name: "Super Mario Bros",
-        image: "https://cdn.awsli.com.br/800x800/1610/1610163/produto/208807923/poster-super-mario-bros-o-filme-i-f04111d3.jpg",
+        name: "Klux",
+        image: "https://www.moneyreport.com.br/wp-content/uploads/2023/10/WhatsApp-Image-2023-10-10-at-14.07.12-692x1024.jpeg",
         date: "28/10/2023",
         isReleased: true,
         releaseDate: "01/10/2023",
@@ -27,15 +27,15 @@ const movies = [
         ticketsAvailable: 40
     },
     {
-        name: "Todo Mundo em Pânico",
-        image: "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/28/03/19873867.jpg",
+        name: "Respire",
+        image: "https://i.kym-cdn.com/photos/images/original/002/676/719/bdb.jpg",
         isReleased: false,
         releaseDate: "15/10/2023",
         price: 11.00,
         ticketsAvailable: 35
     },
     {
-        name: "O Terror da Criançada",
+        name: "Raulzito",
         image: "https://preview.redd.it/novo-filme-da-pixar-v0-fvlmfwfabmtb1.jpg?auto=webp&s=3267795e7690310509118e124925bd2ce9611c6d",
         date: "30/10/2023",
         isReleased: true,
@@ -44,7 +44,7 @@ const movies = [
         ticketsAvailable: 45
     },
     {
-        name: "'Caust'",
+        name: "'Caust",
         image: "https://www.piratesandprincesses.net/wp-content/uploads/2023/10/caust.png",
         date: "31/10/2023",
         isReleased: false,
@@ -53,7 +53,7 @@ const movies = [
         ticketsAvailable: 25
     },
     {
-        name: "One Jar",
+        name: "Um-Pote",
         image: "https://preview.redd.it/theres-nothing-like-the-wholesome-story-of-a-guy-his-jar-v0-g9tl0l4zoipb1.jpg?width=640&crop=smart&auto=webp&s=9c4733e9119076c03d3d6155b943ff1208e91d44",
         date: "01/11/2023",
         isReleased: true,
@@ -62,8 +62,8 @@ const movies = [
         ticketsAvailable: 55
     },
     {
-        name: "O Chamado",
-        image: "https://caras.uol.com.br/media/_versions/legacy/2017/01/24/img-755109-o-chamado-completa-15-anos-veja-como-estao-os-atores20170124091485258584_widexl.jpg",
+        name: "'Nam",
+        image: "https://preview.redd.it/9gffp8ae26p91.jpg?width=640&crop=smart&auto=webp&s=0661f9f5d17deabaaedbe666a7393f84e1303fff",
         date: "02/11/2023",
         isReleased: true,
         releaseDate: "01/10/2023",
@@ -71,8 +71,8 @@ const movies = [
         ticketsAvailable: 60
     },
     {
-        name: "Grávida de Taubaté",
-        image: "https://i0.wp.com/likemagazine.com.br/midias/2023/10/Filme-da-gravida-de-taubate-em-animacao-Disney-Pixar-Temos-tambem.jpg?resize=574%2C850&ssl=1",
+        name: "A Vida de Mia",
+        image: "https://preview.redd.it/xfl80aae26p91.jpg?width=640&crop=smart&auto=webp&s=ab3cb9d9bfbbece097f9e9a63f27d9a1337a6a89",
         date: "03/11/2023",
         isReleased: false,
         releaseDate: "15/10/2023",
@@ -80,8 +80,8 @@ const movies = [
         ticketsAvailable: 35
     },
     {
-        name: "Hereditário",
-        image: "https://i0.wp.com/cinestera.com.br/wp-content/uploads/2023/01/Hereditario.jpeg?fit=1280%2C720&ssl=1",
+        name: "Raluca",
+        image: "https://i.ytimg.com/vi/3i_8O2W9Hzs/maxresdefault.jpg",
         date: "04/11/2023",
         isReleased: true,
         releaseDate: "01/10/2023",
@@ -89,8 +89,8 @@ const movies = [
         ticketsAvailable: 40
     },
     {
-        name: "Cai Fora",
-        image: "https://miro.medium.com/v2/resize:fit:1013/1*Y1YsOwrkJkcxs65B8AEMQw.jpeg",
+        name: "CupCake",
+        image: "https://preview.redd.it/send-me-your-best-disney-pixar-ai-memes-v0-s6rnw5vdm0ub1.jpg?width=640&crop=smart&auto=webp&s=62ff52e3cb52a72c2db5a47253b5b6f3ca1c0a2a",
         date: "26/10/2023",
         isReleased: true,
         releaseDate: "01/10/2023",
@@ -98,8 +98,8 @@ const movies = [
         ticketsAvailable: 50
     },
     {
-        name: "Annabelle",
-        image: "https://proxy.olhardigital.com.br/wp-content/uploads/2023/01/Annabelle-1024x506.png",
+        name: "Among Us",
+        image: "https://i0.wp.com/www.piratesandprincesses.net/wp-content/uploads/2023/10/disney-pixar-among-us.jpg?fit=888%2C652&ssl=1",
         date: "26/10/2023",
         isReleased: true,
         releaseDate: "01/10/2023",
